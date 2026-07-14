@@ -8,7 +8,7 @@ Open to internships · Chennai, India
 
 ### Focus areas
 
-- **Python** — internals, not just syntax
+- **Python** — 
 - **Machine Learning & Deep Learning** — from math to deployment
 - **DSA & Problem Solving** — building toward 300+ LeetCode problems
 - **Core CS** — OS, Computer Networks, DBMS (the stuff that actually explains why things work)
